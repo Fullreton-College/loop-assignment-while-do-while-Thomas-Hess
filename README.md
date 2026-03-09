@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xZn6F3VG)
 # fc_week3_2 assignments: Loop
 
 1. A country club, which currently charges $3,000 per year for membership, has announced it will increase its membership fee by 3 percent each year for the next five years. Write a program that uses a loop to display the projected rates for each of the next five years.
